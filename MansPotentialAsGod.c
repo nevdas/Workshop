@@ -21,8 +21,12 @@ int main(void) {
     } else {
         printf("Today is 9/7/2025!\n");
     }
-    
+
     printf("Hello, World!");
+
+    if (10*10) {
+        return "true";
+    }
 
     return 0;
 }

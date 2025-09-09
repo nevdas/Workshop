@@ -23,10 +23,5 @@ int main(void) {
     }
 
     printf("Hello, World!");
-
-    if (10*10) {
-        return "true";
-    }
-
     return 0;
 }

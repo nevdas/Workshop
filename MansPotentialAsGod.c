@@ -21,5 +21,8 @@ int main(void) {
     } else {
         printf("Today is 9/7/2025!\n");
     }
+    
+    printf("Hello, World!");
+
     return 0;
 }
